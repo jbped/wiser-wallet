@@ -28,7 +28,7 @@ function saveRecord(record) {
     // access object store
     const transactionObjStore = transaction.objectStore("new_transaction");
 
-    // Add new record to transcation Obj Store
+    // Add new record to transaction Obj Store
     transactionObjStore.add(record)
 }
 
@@ -62,7 +62,7 @@ function uploadTransaction() {
                     // clear all items in store
                     transactionObjStore.clear();
 
-                    alert("All saved transactions has been submitted!");
+                    console.log("All saved transactions has been submitted!");
                 })
                 .catch(err => {
                     console.log(err);
@@ -71,4 +71,4 @@ function uploadTransaction() {
     };
 }
 
-window.addEventListener("online", uploadTransaction)
+window.addEventListener("online", uploadTransaction);
