@@ -2,7 +2,7 @@
   "name": "Wiser Wallet",
   "short_name": "Wiser Wallet",
   "description": "A budget tracking app that allows users to add credits and debits to their overall cashflow.",
-  "start-url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background-color": "#ffffff",
   "theme-color": "#ffffff",
