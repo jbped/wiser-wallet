@@ -4,7 +4,7 @@
 ## Description
 [Wiser Wallet](https://wiser-wallet-app.herokuapp.com/) is PWA with IndexedDB budget tracker. It allows for users manage their cash flow on the go with easy methods of debiting and crediting their savings.
 
-![Wiser Wallet PWA](https://user-images.githubusercontent.com/76881086/132429917-bc59849d-c91a-40bf-878f-372271f8dcb9.png)
+![Wiser Wallet PWA](https://user-images.githubusercontent.com/76881086/132430975-044c91c0-a8c9-4b05-b95e-d8f964cc5b2d.png)
 
 ## Table of Contents
 * [Installation](#installation)
