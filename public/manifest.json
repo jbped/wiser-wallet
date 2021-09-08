@@ -4,8 +4,8 @@
   "description": "A budget tracking app that allows users to add credits and debits to their overall cashflow.",
   "start_url": "/",
   "display": "standalone",
-  "background-color": "#ffffff",
-  "theme-color": "#ffffff",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "./icons/icon-72x72.png",
